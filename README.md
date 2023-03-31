@@ -7,3 +7,5 @@ While I wish to keep the actual code repository private, I also want to keep tra
 If you wish to file an issue, I recommend using the TRANSCRIPT ON and TRANSCRIPT OFF commands to make a transcript of the game to attach to your issues, as well as using the Playerr Feedback feature to leave comments in the playthrough by starting your commands with common punctuation like "?" or "!".
 
 You can also follow my progress on [the project Trello board](https://trello.com/b/2leWtZxb/quoll-project-board).
+
+WARNING: I will generally _try_ to keep spoilers for the game out of the titles of the issues themselves, or usually put them on my private Trello board. However, don't consider that a guarantee that I won't spoil plot points or gameplay mechanics in either the titles or the descriptions of the issues. Especially in the case of the descriptions, where I care more about accurately describing what the issue is than hiding secrets.
